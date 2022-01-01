@@ -1,6 +1,6 @@
 /* GAME of Simon Says. 
  * Created by: Cris Avati. 
- * Finished on: 02/07/2021 
+ * Finished on: 02/07/2021 (dd/mm/yyyy)
  * Components necessary: N leds and buttons, 1 buzzer or speaker,
  * N resistors for the leds and N pull-down resistors for the buttons
  */
